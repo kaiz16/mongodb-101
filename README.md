@@ -6,6 +6,7 @@ Go to https://mongodb.com and sign up/login. Then follow the steps below
 2. Get the connection string. A connection string looks like this `mongodb+srv://<username>:<password>@cluster0.wkanp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`
 3. Replace `<username>` and `<password>` with the ones you created in Step 1.
 4. Replace `CONNECTION_STRING_HERE` in `.js` files with your connection string.
+5. Finally install dependencies using `npm install`
 
 **To create collections**
 
